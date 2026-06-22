@@ -5,8 +5,8 @@ ENV DEBIAN_FRONTEND=noninteractive \
     LC_ALL=C.UTF-8 \
     PATH=/usr/local/bin:/usr/bin:/bin:$PATH
 
-LABEL author="Muhammad_Tayyab" \
-      project="MethylBERT_HCC_cfDNA" \
+LABEL author="muhammad_tayyab" \
+      project="methylbert_hcc_cfdna" \
       version="2.0.2_Cloud_Rigorous"
 
 # 1. Unlock OS Repositories
